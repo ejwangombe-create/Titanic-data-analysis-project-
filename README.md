@@ -23,3 +23,8 @@ Exploratory Data Analysis (EDA) of the Titanic dataset from Kaggle.
 
 ## Dataset
 [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic)
+
+## Machine Learning
+- Built a Decision Tree model → 77.7% accuracy
+- Improved with Random Forest → 82.1% accuracy
+- Top survival predictors: Fare, Sex, Age
